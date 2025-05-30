@@ -1,7 +1,7 @@
 # Ex.No: 2   Matrix Multiplication 
 
-### NAME: GOKULA PRIYA P                                                                           
-### REGISTER NUMBER : 212222040044
+### NAME: IMMANUVEL STANLEY A                                                                           
+### REGISTER NUMBER : 212222040056
 
 ### AIM: 
 Write a python program for matrix multiplication and inspect for failures.
